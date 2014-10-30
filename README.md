@@ -5,4 +5,4 @@ See the slides - http://slid.es/samyak_bhuta/phonegap
 
 Live Demo
 ---------
-~~ HTTPS://APP.IO/ELGEQK ~~
+~~HTTPS://APP.IO/ELGEQK~~
